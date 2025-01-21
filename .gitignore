@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# 环境变量
+.env
+
+# IDE配置
+.vscode/
+.idea/
+*.iml
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# 其他
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
